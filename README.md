@@ -137,7 +137,6 @@ These recommendations are starting points for further investigation. Fleet avail
 ## 📁 Repository Structure
 ```text
 Capital-Bikeshare-Data-Analysis/
-Capital-Bikeshare-Data-Analysis/
 │
 ├── Capital_Bikeshare.ipynb
 ├── README.md
@@ -182,7 +181,21 @@ This project demonstrates practical use of SQL and SQLite to explore a large dat
 <div align="center">
 
 **Thanks for visiting!**
+## 👩‍💻 Author
 
-*Driven by curiosity. Powered by data. Focused on impact.*
+### Farah Hossam
+
+#### Data Science | Python | Data Analysis | Interactive Visualization
+
+Linkedin Profile: [LinkedIn](https://linkedin.com/in/farahhossam/)
+
+Portfolio Link: [Portfolio](https://farahhossameldin.github.io/)
+
+Github Link: [Github](https://github.com/FarahHossamEldin)
+
+
+
+#### Driven by curiosity. Powered by data. Focused on impact.
+
 
 </div>
