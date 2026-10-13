@@ -41,8 +41,8 @@ The analysis investigates questions such as:
 | **SQLite** | Creating and managing the relational database |
 | **Python** | Data loading and analysis workflow |
 | **Pandas** | Importing CSV files, loading tables, and working with query results |
-| **Jupyter Notebook** | Documenting the analysis and presenting findings |
 | **Matplotlib** | Visualizing selected results |
+| **Google Colab** | Documenting the analysis and presenting findings |
 
 ## 🗂️ Dataset & Database Setup
 
@@ -126,14 +126,6 @@ Highlight peak trip-start hours and potential periods of high demand.
 
 ![Trips by Hour of the Day](images/trips-by-hour-of-day.png)
 
-### 7. Weather and Average Daily Trips
-
-Compare average daily trip volume across recorded weather conditions.
-
-![Weather and Average Daily Trips](images/weather-vs-average-daily-trips.png)
-
-> **Tip:** If a chart is not part of the notebook's existing outputs, create and export it before adding it here. GitHub will display the image when the path and filename match the uploaded file.
-
 ## 💡 Business Recommendations
 
 Based on the observed patterns, the analysis suggests several opportunities:
@@ -159,28 +151,25 @@ Capital-Bikeshare-Data-Analysis/
 │   ├── trips-by-rider-type.png
 │   ├── average-trip-duration-by-rider-type.png
 │   ├── trips-by-bike-type.png
-│   ├── monthly-trip-trends-2024.png
+│   ├── monthly-trip-volume-2024.png
+    ├── monthly-average-duration-2024.png
 │   ├── trips-by-day-of-week.png
-│   ├── trips-by-hour-of-day.png
-│   └── weather-vs-average-daily-trips.png
-│
-└── (optional: data or SQL files, if included in the repository)
-```
+│   └── trips-by-hour-of-day.png
 
-*The folder and image names above are recommendations. Keep only files that actually exist in your repository, and avoid committing large raw datasets unless needed and permitted by the dataset's terms.*
+```
 
 ## 🚀 How to Explore the Project
 
 1. Clone or download this repository.
 2. Install the required Python libraries.
 3. Download the dataset from the [Kaggle source](https://www.kaggle.com/datasets/taweilo/capital-bikeshare-dataset-202005202408).
-4. Open `Capital_Bikeshare.ipynb` in Jupyter Notebook or Google Colab.
+4. Open `Capital_Bikeshare.ipynb` in Google Colab.
 5. Run the notebook cells in order, updating the dataset path if necessary.
 
 ### Requirements
 
 ```bash
-pip install pandas matplotlib kagglehub jupyter
+pip install pandas matplotlib kagglehub
 ```
 
 The notebook uses SQLite through Python's built-in `sqlite3` module. Depending on your environment, you may need to configure Kaggle access to download the dataset through `kagglehub`.
