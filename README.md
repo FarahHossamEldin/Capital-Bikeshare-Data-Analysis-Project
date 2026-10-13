@@ -135,22 +135,21 @@ Based on the observed patterns, the analysis suggests several opportunities:
 These recommendations are starting points for further investigation. Fleet availability, operating costs, and additional operational data would help assess their feasibility and expected impact.
 
 ## 📁 Repository Structure
-
-A suggested repository structure:
-
 ```text
+Capital-Bikeshare-Data-Analysis/
 Capital-Bikeshare-Data-Analysis/
 │
 ├── Capital_Bikeshare.ipynb
 ├── README.md
-├── images/
-│   ├── trips-by-rider-type.png
-│   ├── average-trip-duration-by-rider-type.png
-│   ├── trips-by-bike-type.png
-│   ├── monthly-trip-volume-2024.png
+│
+└── images/
+    ├── trips-by-rider-type.png
+    ├── average-trip-duration-by-rider-type.png
+    ├── trips-by-bike-type.png
+    ├── monthly-trip-volume-2024.png
     ├── monthly-average-duration-2024.png
-│   ├── trips-by-day-of-week.png
-│   └── trips-by-hour-of-day.png
+    ├── trips-by-day-of-week.png
+    └── trips-by-hour-of-day.png
 
 ```
 
