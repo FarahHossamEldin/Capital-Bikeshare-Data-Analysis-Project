@@ -77,11 +77,7 @@ The notebook reports the following findings:
 - **Station and route activity:** Trip activity was concentrated around particular stations and routes, creating opportunities to improve bike redistribution and capacity planning.
 - **Weather patterns:** Average trip volumes differed across recorded weather conditions, suggesting weather could be explored as one factor in future demand forecasting.
 
-*These findings describe patterns in the analyzed dataset and should not be interpreted as proof that any single factor causes changes in ridership.*
-
 ## 📈 Visualizations
-
-Add your exported graph images to a folder named `images` in the GitHub repository. The image paths below are placeholders—replace each filename with the exact name of the image you upload.
 
 ### 1. Trips by Rider Type
 
