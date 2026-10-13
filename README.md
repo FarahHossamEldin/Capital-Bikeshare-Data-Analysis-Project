@@ -105,7 +105,14 @@ Explore the distribution of trips across bike types.
 
 Examine how trip volume and average trip duration changed month by month.
 
-![Monthly Trip Trends](images/monthly-trip-trends-2024.png)
+<p align="center">
+  <img src="images/monthly-trip-volume-2024.png" width="48%" alt="Monthly Trip Volume in 2024" />
+  <img src="images/monthly-average-duration-2024.png" width="48%" alt="Monthly Average Trip Duration in 2024" />
+</p>
+
+<p align="center">
+  <em>Monthly trip volume</em> &nbsp; | &nbsp; <em>Monthly average trip duration</em>
+</p>
 
 ### 5. Trips by Day of the Week
 
